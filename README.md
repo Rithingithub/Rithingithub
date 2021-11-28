@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rithin Lehan</h1>
-<h3 align="center">I'm a cyber security enthusiast</h3>
+# <h1 align="center">Hi 👋, I'm Rithin Lehan</h1>
+
+
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Cyber+Security+Enthusiast;I'm+a+Computer+Science+engineer" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithingithub&label=Profile%20views&color=0e75b6&style=flat" alt="rithingithub" /> </p>
 
