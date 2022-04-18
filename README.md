@@ -31,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rithingithub&show_icons=true&locale=en&layout=compact" alt="rithingithub" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rithingithub&show_icons=true&locale=en" alt="rithingithub" /></p>
+
+![Saturday Hack Night - Participant - Twitter API - 2022-04-18](https://user-images.githubusercontent.com/74766580/163835771-03014e4c-dde8-48ec-b346-19955dc9a3a8.png)
