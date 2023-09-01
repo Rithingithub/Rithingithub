@@ -48,4 +48,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rithinlehan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rithinlehan" /></a></p><br><br>
 
-![Saturday Hack Night - Participant - Twitter API - 2022-04-18](https://user-images.githubusercontent.com/74766580/163835771-03014e4c-dde8-48ec-b346-19955dc9a3a8.png)
+<!-- ![Saturday Hack Night - Participant - Twitter API - 2022-04-18](https://user-images.githubusercontent.com/74766580/163835771-03014e4c-dde8-48ec-b346-19955dc9a3a8.png) -->
