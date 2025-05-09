@@ -17,7 +17,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rithingithub" alt="rithingithub" /></a> </p> -->
 
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Networking and Cyber seurity**
 
